@@ -1,0 +1,9 @@
+<GuiXml>
+    <Controls>
+        <TopLevelControl name="CDGDevTools">
+            <OnInitialized>
+                CDGDT_OnInitialized()
+            </OnInitialized>
+        </TopLevelControl>
+    </Controls>
+</GuiXml>

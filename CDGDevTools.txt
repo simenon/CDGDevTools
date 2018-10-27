@@ -1,0 +1,11 @@
+## APIVersion: 100003
+## Title: |cFF2222CrazyDutchGuy's|r Dev Tools |c0066990.1|r
+## Version: 0.1
+## Author: CrazyDutchGuy
+## SavedVariables: CDGDT_SavedVariables 
+
+libs\LibStub\LibStub.lua
+libs\LibSort\LibSort-1.0.lua
+
+CDGDevTools.lua
+CDGDevTools.xml
